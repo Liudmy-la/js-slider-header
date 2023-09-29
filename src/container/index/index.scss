@@ -1,7 +1,2 @@
-@use '../../style' as s;
-
-main {
-	background: s.color(dark);
-	color: s.color(light);
-	padding: s.space(4);
-} 
+@import '../../component/header/index.scss';
+@import '../../component/slider/index.scss';

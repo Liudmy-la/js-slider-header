@@ -1,3 +1,2 @@
-import '../../script/test'
-
-console.log('container')
+import '../../component/slider/index'
+import '../../component/header/index'
